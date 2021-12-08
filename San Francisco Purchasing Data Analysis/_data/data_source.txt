@@ -1,0 +1,3 @@
+The data set can be downloaded here:
+
+https://data.sfgov.org/City-Management-and-Ethics/Purchasing-Commodity-Data/ebsh-uavg

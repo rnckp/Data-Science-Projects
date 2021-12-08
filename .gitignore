@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Ames House Prices/.DS_Store
+Ames House Prices/_data/house-prices-test.csv
+Ames House Prices/_data/house-prices.csv
+Ames House Prices/predictions-complex-model.csv
+Ames House Prices/predictions-intermediate-model.csv
+Ames House Prices/predictions-simple-model.csv
+Costa Rica Poverty Levels/.DS_Store
+Costa Rica Poverty Levels/_data/sample_submission.csv
+Costa Rica Poverty Levels/_data/test.csv
+Costa Rica Poverty Levels/_data/train.csv
+Podcast Lengths Analysis/.DS_Store
+Podcast Lengths Analysis/_plots/.DS_Store
+Podcast Lengths Analysis/config.py
+San Francisco Purchasing Data Analysis/.DS_Store
+San Francisco Purchasing Data Analysis/_data/.DS_Store
+San Francisco Purchasing Data Analysis/_data/Purchasing_Commodity_Data.csv
+San Francisco Purchasing Data Analysis/df_subset.csv
+Swiss Real Estate Price Analysis & Modelling/.DS_Store
+Swiss Real Estate Price Analysis & Modelling/_data/.DS_Store
+Swiss Real Estate Price Analysis & Modelling/_data/_geodata/.DS_Store
+.DS_Store
