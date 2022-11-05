@@ -1,5 +1,5 @@
 # Data Science Projects
-Collection of smaller data science projects (time frame == some hours to some days...).
+Collection of smaller data science projects.
 
 ## [Ames House Price Prediction](https://github.com/rnckp/Data-Science-Projects/tree/main/Ames%20House%20Prices)
 Slightly edited and condensed version of one of five projects for EPFL course [«Data Science: Applied Machine Learning»](https://www.extensionschool.ch/applied-data-science-machine-learning).
