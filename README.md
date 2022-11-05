@@ -12,6 +12,11 @@ Final project for [Advanced Machine Learning course at FHNW](https://www.fhnw.ch
 - Main techniques: Regression modelling with various classifiers, scikit pipelines, LightGBM, hyperparameter tuning with GridSearch/RandomSearch, [Hyperopt](https://github.com/hyperopt/hyperopt) and [scikit-optimize](https://scikit-optimize.github.io/stable/), [category encoding](https://contrib.scikit-learn.org/category_encoders/), data aggregation with [featuretools](https://www.featuretools.com/), analyzing feature importances with permutation, creating interaction features, oversampling with [imbalanced-learn](https://imbalanced-learn.org/stable/).
 
 
+## [Spaceship Titanic Challenge](https://github.com/rnckp/Data-Science-Projects/tree/main/Spaceship%20Titanic%20–%20EDA%20and%20Modelling)
+Quick EDA and some modelling test runs for Kaggles [Spaceship Titanic Challenge](https://www.kaggle.com/competitions/spaceship-titanic/overview).
+- Main techniques: EDA, data preparation and cleaning, classification modelling with various classifiers, scikit pipelines.
+
+
 ## [San Francisco Purchasing Data](https://github.com/rnckp/Data-Science-Projects/tree/main/San%20Francisco%20Purchasing%20Data%20Analysis)
 Project for course [«Data Science Project Competence» at FHNW](https://www.fhnw.ch/de/weiterbildung/technik/data-science-projektkompetenz).
 
