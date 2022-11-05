@@ -31,7 +31,7 @@ Quick EDA and regression modelling for a Machine Learning Lab during [Data Scien
 
 
 ## [Podcast Lengths Analysis](https://github.com/rnckp/Data-Science-Projects/tree/main/Podcast%20Lengths%20Analysis)
-Quick examination of podcasts lengths to help quantify creative choices for podcast producers. I analysed ~225k episodes of ~1.8k iTunes podcasts and 37k episodes of ~800 Spotify podcasts. 
+Quick examination of podcast lengths to help quantify creative choices for podcast producers. I analysed ~225k episodes of ~1.8k iTunes podcasts and 37k episodes of ~800 Spotify podcasts. 
 
 Findings: 
 - A prototypical length of a podcast episode is around 40 minutes.
