@@ -20,7 +20,7 @@ Quick EDA and some modelling test runs for Kaggles [Spaceship Titanic Challenge]
 ## [San Francisco Purchasing Data](https://github.com/rnckp/Data-Science-Projects/tree/main/San%20Francisco%20Purchasing%20Data%20Analysis)
 Project for course [«Data Science Project Competence» at FHNW](https://www.fhnw.ch/de/weiterbildung/technik/data-science-projektkompetenz).
 
-- Just the data was given. Students were supposed to analyse the data, present insights and propose appropriate data products. I addition to that I created [a working data dashboard with Streamlit](https://github.com/rnckp/San-Francisco-Purchasing-Data-Dashboard).
+- Just the data was given. Students were asked to analyse the data, present insights and propose appropriate data products. In addition to that I created [a working data dashboard with Streamlit](https://github.com/rnckp/San-Francisco-Purchasing-Data-Dashboard).
 
 
 ## [Swiss Real Estate Analysis & Price Prediction](https://github.com/rnckp/Data-Science-Projects/tree/main/Swiss%20Real%20Estate%20Price%20Analysis%20%26%20Modelling)
